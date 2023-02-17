@@ -1,6 +1,6 @@
 {
     "name": "@alfred-workflows/jenkins",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Alfred Workflows For Jenkins",
     "main": "dist/index.js",
     "scripts": {
